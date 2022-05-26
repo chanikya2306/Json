@@ -1,0 +1,28 @@
+{
+    "name": "Suresh",
+    "details": {
+        "address": "12,karnataka,india"
+    },
+    "friends": [
+        {
+            "name": "Chanikya",
+            "phone_number": 9515179896
+        },
+        {
+            "name": "Lokesh",
+            "phone_number": 9515179884
+        },
+        {
+            "name": "Paramesh",
+            "phone_number": 96328745241
+        },
+        {
+            "name": "Subash",
+            "phone_number": 9515179432
+        }
+    ],
+    "is_registerd": true
+}
+
+
+
